@@ -1,6 +1,6 @@
 {
   "source": "https://gofilm.uk/towns/st-neots",
-  "updated": "2026-11-08T20:25+00:00",
+  "updated": "2026-11-09T17:37+00:00",
   "days": {
     "2026-11-06": [
       {
@@ -808,6 +808,70 @@
         "times": [
           {
             "time": "19:45"
+          }
+        ]
+      }
+    ],
+    "2026-11-15": [
+      {
+        "title": "Festive Fun with Peppa",
+        "times": [
+          {
+            "time": "10:20"
+          },
+          {
+            "time": "12:20"
+          },
+          {
+            "time": "14:20"
+          }
+        ]
+      },
+      {
+        "title": "Ebenezer",
+        "times": [
+          {
+            "time": "11:20"
+          },
+          {
+            "time": "14:10"
+          },
+          {
+            "time": "17:00"
+          },
+          {
+            "time": "19:50"
+          }
+        ]
+      },
+      {
+        "title": "Prima Facie",
+        "times": [
+          {
+            "time": "11:30"
+          },
+          {
+            "time": "14:10"
+          },
+          {
+            "time": "16:50"
+          },
+          {
+            "time": "19:30"
+          }
+        ]
+      },
+      {
+        "title": "I Play Rocky",
+        "times": [
+          {
+            "time": "13:40"
+          },
+          {
+            "time": "16:40"
+          },
+          {
+            "time": "19:40"
           }
         ]
       }
