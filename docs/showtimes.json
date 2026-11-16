@@ -1,6 +1,6 @@
 {
   "source": "https://gofilm.uk/towns/st-neots",
-  "updated": "2026-11-15T20:25+00:00",
+  "updated": "2026-11-16T17:07+00:00",
   "days": {
     "2026-11-06": [
       {
@@ -1418,6 +1418,81 @@
           },
           {
             "time": "14:20"
+          }
+        ]
+      }
+    ],
+    "2026-11-22": [
+      {
+        "title": "Arthur Christmas",
+        "times": [
+          {
+            "time": "10:00"
+          }
+        ]
+      },
+      {
+        "title": "CBeebies Panto 2026: Treasure Island",
+        "times": [
+          {
+            "time": "10:00"
+          }
+        ]
+      },
+      {
+        "title": "The Hunger Games: Sunrise On The Reaping",
+        "times": [
+          {
+            "time": "10:00"
+          },
+          {
+            "time": "12:00"
+          },
+          {
+            "time": "13:30",
+            "note": "Subtitled"
+          },
+          {
+            "time": "15:30"
+          },
+          {
+            "time": "17:00"
+          },
+          {
+            "time": "19:00"
+          },
+          {
+            "time": "20:30"
+          }
+        ]
+      },
+      {
+        "title": "Festive Fun with Peppa",
+        "times": [
+          {
+            "time": "10:20"
+          },
+          {
+            "time": "12:20"
+          },
+          {
+            "time": "14:20"
+          }
+        ]
+      },
+      {
+        "title": "GIANT - The Play",
+        "times": [
+          {
+            "time": "13:00"
+          }
+        ]
+      },
+      {
+        "title": "Focker-In-Law",
+        "times": [
+          {
+            "time": "19:00"
           }
         ]
       }
