@@ -1,6 +1,6 @@
 {
   "source": "https://gofilm.uk/towns/st-neots",
-  "updated": "2026-11-23T00:21+00:00",
+  "updated": "2026-11-23T19:18+00:00",
   "days": {
     "2026-11-06": [
       {
@@ -2160,6 +2160,80 @@
         "times": [
           {
             "time": "19:30"
+          }
+        ]
+      }
+    ],
+    "2026-11-29": [
+      {
+        "title": "CBeebies Panto 2026: Treasure Island",
+        "times": [
+          {
+            "time": "10:00"
+          }
+        ]
+      },
+      {
+        "title": "Elf",
+        "times": [
+          {
+            "time": "10:00"
+          }
+        ]
+      },
+      {
+        "title": "Hexed",
+        "times": [
+          {
+            "time": "10:00"
+          },
+          {
+            "time": "11:20"
+          },
+          {
+            "time": "12:40"
+          },
+          {
+            "time": "14:00"
+          },
+          {
+            "time": "15:20",
+            "note": "Subtitled"
+          },
+          {
+            "time": "16:40"
+          },
+          {
+            "time": "18:00"
+          }
+        ]
+      },
+      {
+        "title": "Focker-In-Law",
+        "times": [
+          {
+            "time": "11:00"
+          },
+          {
+            "time": "13:40"
+          },
+          {
+            "time": "16:20",
+            "note": "Subtitled"
+          },
+          {
+            "time": "19:00"
+          },
+          {
+            "time": "20:40"
+          }
+        ]
+      },
+      {
+        "title": "Andrew Lloyd Webber's Starlight Express - Live On Stage",
+        "times": [
+          {
+            "time": "19:00"
           }
         ]
       }
