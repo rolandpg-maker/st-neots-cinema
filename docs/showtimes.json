@@ -1,6 +1,6 @@
 {
   "source": "https://gofilm.uk/towns/st-neots",
-  "updated": "2026-11-28T02:01+00:00",
+  "updated": "2026-11-28T16:14+00:00",
   "days": {
     "2026-11-07": [
       {
@@ -2050,42 +2050,6 @@
     ],
     "2026-11-28": [
       {
-        "title": "CBeebies Panto 2026: Treasure Island",
-        "times": [
-          {
-            "time": "10:00"
-          }
-        ]
-      },
-      {
-        "title": "Elf",
-        "times": [
-          {
-            "time": "10:00"
-          }
-        ]
-      },
-      {
-        "title": "Hexed",
-        "times": [
-          {
-            "time": "10:00"
-          },
-          {
-            "time": "12:40"
-          },
-          {
-            "time": "14:00"
-          },
-          {
-            "time": "15:20"
-          },
-          {
-            "time": "19:50"
-          }
-        ]
-      },
-      {
         "title": "Ebenezer",
         "times": [
           {
@@ -2142,6 +2106,23 @@
           },
           {
             "time": "20:00"
+          }
+        ]
+      },
+      {
+        "title": "Hexed",
+        "times": [
+          {
+            "time": "12:40"
+          },
+          {
+            "time": "14:00"
+          },
+          {
+            "time": "15:20"
+          },
+          {
+            "time": "19:50"
           }
         ]
       },
@@ -2644,6 +2625,46 @@
         "times": [
           {
             "time": "19:15"
+          }
+        ]
+      }
+    ],
+    "2026-12-04": [
+      {
+        "title": "The Cat in the Hat",
+        "times": [
+          {
+            "time": "12:00"
+          },
+          {
+            "time": "14:50"
+          },
+          {
+            "time": "17:40"
+          }
+        ]
+      },
+      {
+        "title": "Dune: Part One Reissue",
+        "times": [
+          {
+            "time": "17:00"
+          }
+        ]
+      },
+      {
+        "title": "The Holiday",
+        "times": [
+          {
+            "time": "19:15"
+          }
+        ]
+      },
+      {
+        "title": "Dune: Part Two Reissue",
+        "times": [
+          {
+            "time": "20:30"
           }
         ]
       }
